@@ -14,4 +14,10 @@ void main()
   {
     return a-b;
   }
+  int mul(int x,int y)
+  {
+    return a*b;
+  }
 }
+
+//Now the file is updated using notepad...!!!
